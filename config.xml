@@ -4,15 +4,15 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-	<name>Leisure Treasure Hunt</name>
+	<name>ZP Platform</name>
 
 	<description>
 	A simple PhoneGap Build application.
 	</description>
 
-	<author href="https://example.com" email="you@example.com">
-	Your Name
+	<author href="http://android.zeropoint.it/" email="you@example.com">
+	Kosar Latif
 	</author>
 
-	<preference name="phonegap-version" value="3.3.0" />
+	<preference name="phonegap-version" value="3.6.3" />
 </widget>
