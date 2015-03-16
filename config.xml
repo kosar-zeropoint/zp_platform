@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.example"
     version   = "1.0.0">
-
+    <access origin="*" />
 	<name>ZP Platform</name>
 
 	<description>
@@ -16,3 +16,4 @@
 
 	<preference name="phonegap-version" value="3.6.3" />
 </widget>
+
