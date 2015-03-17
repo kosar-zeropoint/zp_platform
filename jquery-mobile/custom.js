@@ -6,6 +6,9 @@ $(document).ready(function(){
     if (loggedin_key == null) {
         window.location = "#login";
     }
+    else{
+        window.location = "#page";
+    }
     
     $("#login_button").live('click', function(event){
         get_loggedin_key();
