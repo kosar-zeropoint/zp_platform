@@ -1,5 +1,6 @@
 $(document).ready(function(){
     var loggedin_key = window.localStorage.getItem('loggedin_key');
+    var loggedin_key = 'yRtVGtTUk8ZiDYPNrbJsxq5dNMhW2XySLLsrY7TYGvQxp06oDiGOUMQ48OQo';
     // var base_url = "http://zpp.localhost/";
     var base_url = "http://android.zeropoint.it/";
     if (loggedin_key == null) {
